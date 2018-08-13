@@ -13,6 +13,8 @@ You can check the awnsers on `elixir-koans-awnsers/lib/koans/...`
 
 If you doesen't finished the Koans you can download it on their github on [https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans).
 
+You can check how to install and use the Elixir Koans on their page on github our just checking above. 
+
 ### Prerequisites
 
 - [Elixir] (http://elixir-lang.org/install.html)
@@ -31,5 +33,3 @@ With the dependencies installed, navigate to the root directory of this project 
 You should see the first failure (If the awnser's arent complete). 
 Open the corresponding file in your favourite text editor and fill in the blanks to make the koans pass one by one.
 The autorunner will give you feedback each time you save.
-
-Tha's it, HAVE FUN !!
