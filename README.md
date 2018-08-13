@@ -11,4 +11,4 @@ These repository contains my awnsers of Elixir Koans has the unique purpose of s
 
 You can check the awnsers on `elixir-koans-awnsers/lib/koans/...`
 
-If you doesen't finished the Koans you can download it on their github right [here](https://github.com/elixirkoans/elixir-koans).
+If you doesen't finished the Koans you can download it on their github clicking [here](https://github.com/elixirkoans/elixir-koans).
