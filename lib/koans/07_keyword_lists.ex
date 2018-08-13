@@ -29,6 +29,6 @@ defmodule KeywordLists do
   koan "But unlike maps, the keys in keyword lists must be atoms" do
     not_kw_list = [{"foo", "bar"}]
 
-    assert_raise ArgumentError, fn -> not_kw_list[:foo] end
+    assert_raise ArgumentError, fn -> not_kw_list["foo"] end
   end
 end
